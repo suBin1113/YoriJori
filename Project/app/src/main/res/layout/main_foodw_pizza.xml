@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="310dp"
+    android:layout_height="380dp"
+    android:background="@drawable/rect5">
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="69dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="41dp"
+        android:layout_marginLeft="41dp"
+        android:layout_marginTop="17dp"
+        android:text="피자"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/piz6"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginBottom="36dp"
+        android:text="피자
+         프리타타"
+        android:textSize="19sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/piz5"
+        app:layout_constraintTop_toBottomOf="@+id/piz4" />
+
+    <Button
+        android:id="@+id/piz5"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginRight="28dp"
+        android:layout_marginBottom="36dp"
+        android:text="떠먹는
+        피자"
+        android:textSize="19sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/piz6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/piz3" />
+
+    <Button
+        android:id="@+id/piz4"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginBottom="27dp"
+        android:text="피자
+        라볶이"
+        android:textSize="19sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toTopOf="@+id/piz6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/piz3"
+        app:layout_constraintTop_toBottomOf="@+id/piz2" />
+
+    <Button
+        android:id="@+id/piz3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginRight="28dp"
+        android:layout_marginBottom="27dp"
+        android:text="누드
+        피자전"
+        android:textSize="19sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toTopOf="@+id/piz5"
+        app:layout_constraintEnd_toStartOf="@+id/piz4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/piz1" />
+
+    <Button
+        android:id="@+id/piz2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginBottom="27dp"
+        android:text="피자
+        그라탕"
+        android:textSize="19sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toTopOf="@+id/piz4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/piz1"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/piz1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginRight="28dp"
+        android:layout_marginBottom="27dp"
+        android:text="피자
+         말아또"
+        android:textSize="19sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toTopOf="@+id/piz3"
+        app:layout_constraintEnd_toStartOf="@+id/piz2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

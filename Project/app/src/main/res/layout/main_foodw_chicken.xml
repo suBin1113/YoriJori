@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="310dp"
+    android:layout_height="380dp"
+    android:background="@drawable/rect5">
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="69dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="41dp"
+        android:layout_marginLeft="41dp"
+        android:layout_marginTop="17dp"
+        android:text="치킨"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/chic6"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginBottom="36dp"
+        android:text="치킨
+         스낵랩"
+        android:textSize="19sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/chic5"
+        app:layout_constraintTop_toBottomOf="@+id/chic4" />
+
+    <Button
+        android:id="@+id/chic5"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginRight="28dp"
+        android:layout_marginBottom="36dp"
+        android:text="케이준
+         크루통샐러드"
+        android:textSize="12.7sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/chic6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/chic3" />
+
+    <Button
+        android:id="@+id/chic4"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginBottom="27dp"
+        android:text="치킨전"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toTopOf="@+id/chic6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/chic3"
+        app:layout_constraintTop_toBottomOf="@+id/chic2" />
+
+    <Button
+        android:id="@+id/chic3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginRight="28dp"
+        android:layout_marginBottom="27dp"
+        android:text="양념 치킨
+         볶음밥"
+        android:textSize="17.7sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toTopOf="@+id/chic5"
+        app:layout_constraintEnd_toStartOf="@+id/chic4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/chic1" />
+
+    <Button
+        android:id="@+id/chic2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginBottom="27dp"
+        android:text="카레
+         치즈 라면"
+        android:textSize="17sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toTopOf="@+id/chic4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/chic1"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/chic1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginRight="28dp"
+        android:layout_marginBottom="27dp"
+        android:text="치킨마요
+         덮밥"
+        android:textSize="19sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toTopOf="@+id/chic3"
+        app:layout_constraintEnd_toStartOf="@+id/chic2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

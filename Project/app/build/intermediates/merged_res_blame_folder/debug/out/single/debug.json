@@ -1,0 +1,646 @@
+[
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_23.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_23.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_61.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_61.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_foodj_icecream.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_foodj_icecream.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_53.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_53.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_38.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_38.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable_rect5.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable\\rect5.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_6.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_6.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_46.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_46.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_83.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_83.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_45.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_45.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_custompopup.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_custompopup.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_16.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_16.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_30.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_30.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_75.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_75.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\font_raleway.ttf.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\font\\raleway.ttf"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_37.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_37.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_69.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_69.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_24.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_24.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable_smallspoon.jpg.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable\\smallspoon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_22.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_22.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_54.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_54.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_67.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_67.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_foodj_yogurt.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_foodj_yogurt.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable_rect6.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable\\rect6.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-pngs-17:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_shopping_cart.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_foodw_chicken.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_foodw_chicken.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_60.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_60.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_edit.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_foodc_jjajangmyeon.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_foodc_jjajangmyeon.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_7.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_7.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_47.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_47.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_15.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_15.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_76.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_76.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_44.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_44.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_89.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_89.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\font_ralewaymedium.ttf.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\font\\ralewaymedium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_31.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_31.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_custompopup_chinese.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_custompopup_chinese.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_82.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_82.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-pngs-17:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable_list.jpg.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable\\list.jpg"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_55.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_55.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_17.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_17.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_21.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_21.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_85.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_85.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_25.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_25.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable_cross.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable\\cross.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_32.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_32.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_foodc_maratang.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_foodc_maratang.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_8.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_8.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_14.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_14.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_48.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_48.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable_knife.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable\\knife.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_62.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_62.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable_fill_star.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable\\fill_star.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable_rect3.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable\\rect3.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_88.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_88.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_food_ddeokbokki.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_food_ddeokbokki.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_70.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_70.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_custompopup_western.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_custompopup_western.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-pngs-17:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_foodw_gamjathuigim.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_foodw_gamjathuigim.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_5.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_5.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_58.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_58.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_layout_recipe.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\layout_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\font_font.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\font\\font.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_78.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_78.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_65.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_65.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_52.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_52.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_90.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_90.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_food_jjimdak.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_food_jjimdak.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\font_ralewayextrabold.ttf.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\font\\ralewayextrabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_foodw_dongas.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_foodw_dongas.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_68.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_68.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-pngs-17:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-pngs-17:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_42.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_42.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_food_gamjatang.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_food_gamjatang.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-pngs-17:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_2.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-pngs-17:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_87.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_87.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_57.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_57.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_34.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_34.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_72.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_72.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_80.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_80.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_19.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_19.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_activity_my_recipe.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\activity_my_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_27.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_27.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_64.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_64.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_11.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_11.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_35.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_35.png"
+    },
+    {
+        "merged": "com.example.recipeapp-merged_res-22:/layout_activity_my_recipe.xml.flat",
+        "source": "com.example.recipeapp-main-24:/layout/activity_my_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_56.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_56.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_18.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_18.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_41.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_41.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_1.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_86.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_86.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_recipe_layout.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_recipe_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_setting_custompopup.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\setting_custompopup.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_foodw_pizza.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_foodw_pizza.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_73.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_73.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_28.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_28.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_79.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_79.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_custompopup_japanese.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_custompopup_japanese.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_12.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_12.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable_rect2.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable\\rect2.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_user.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable_layout_background.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable\\layout_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_63.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_63.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_50.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_50.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_10.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_10.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_4.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_4.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_74.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_74.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_food_gobchang.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_food_gobchang.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_66.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_66.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_40.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_40.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_foodc_tangsuyook.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_foodc_tangsuyook.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_book.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_foodc_jjambbong.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_foodc_jjambbong.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_51.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_51.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_59.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_59.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_77.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_77.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable_slideimage.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable\\slideimage.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-pngs-17:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_29.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_29.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_43.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_43.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_foodj_snack.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_foodj_snack.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_3.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_3.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_food_jokbal.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_food_jokbal.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_info_custompopup.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\info_custompopup.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\font_nanumbarungothicyethangul.ttf.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\font\\nanumbarungothicyethangul.ttf"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable_rect1.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable\\rect1.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_81.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_81.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_39.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_39.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_20.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_20.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_13.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_13.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_33.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_33.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_26.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_26.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_71.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_71.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable_rect4.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable\\rect4.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_84.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_84.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_49.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_49.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\layout_main_food_soondae.xml.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\layout\\main_food_soondae.xml"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_9.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_9.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable_star.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-merged_res-22:\\drawable-v24_img_36.png.flat",
+        "source": "C:\\Users\\gpdnj\\.gradle\\daemon\\7.3.3\\com.example.recipeapp-main-24:\\drawable-v24\\img_36.png"
+    }
+]

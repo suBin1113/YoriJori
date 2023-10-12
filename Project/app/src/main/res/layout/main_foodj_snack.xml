@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="310dp"
+    android:layout_height="380dp"
+    android:background="@drawable/rect5">
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="141dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="41dp"
+        android:layout_marginLeft="41dp"
+        android:layout_marginTop="17dp"
+        android:text="과자"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/snac6"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginBottom="36dp"
+        android:text="깐풍소스
+         새우깡"
+        android:textSize="19sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/snac5"
+        app:layout_constraintTop_toBottomOf="@+id/snac4" />
+
+    <Button
+        android:id="@+id/snac5"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginRight="28dp"
+        android:layout_marginBottom="36dp"
+        android:text="오감자
+         후라이"
+        android:textSize="19sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/snac6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/snac3" />
+
+    <Button
+        android:id="@+id/snac4"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginBottom="27dp"
+        android:text="옥수수
+         머핀"
+        android:textSize="19sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toTopOf="@+id/snac6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/snac3"
+        app:layout_constraintTop_toBottomOf="@+id/snac2" />
+
+    <Button
+        android:id="@+id/snac3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginRight="28dp"
+        android:layout_marginBottom="27dp"
+        android:text="오레오
+         티라미수"
+        android:textSize="19sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toTopOf="@+id/snac5"
+        app:layout_constraintEnd_toStartOf="@+id/snac4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/snac1" />
+
+    <Button
+        android:id="@+id/snac2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginBottom="27dp"
+        android:text="오레오
+         디저트 컵"
+        android:textSize="17.7sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toTopOf="@+id/snac4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/snac1"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/snac1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginRight="28dp"
+        android:layout_marginBottom="27dp"
+        android:text="매쉬드
+         포테이토"
+        android:textSize="19sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toTopOf="@+id/snac3"
+        app:layout_constraintEnd_toStartOf="@+id/snac2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GitHub/Project/app/src/main/res/drawable/rect1.xml" value="0.192" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/drawable/rect2.xml" value="0.192" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/drawable/rect3.xml" value="0.192" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/drawable/rect4.xml" value="0.192" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/drawable/rect5.xml" value="0.192" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/drawable/rect6.xml" value="0.1755" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/activity_cart.xml" value="0.2838541666666667" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/activity_main_chinese.xml" value="0.22826086956521738" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/activity_my_recipe.xml" value="0.19927536231884058" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/activity_recipe.xml" value="0.25" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/frame_1.xml" value="0.10894808743169399" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/frame_10.xml" value="0.1" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/frame_11.xml" value="0.10004177109440267" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/frame_12.xml" value="0.12082066869300911" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/frame_13.xml" value="0.12082066869300911" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/frame_14.xml" value="0.12132725430597771" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/frame_15.xml" value="0.12082066869300911" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/frame_16.xml" value="0.12082066869300911" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/frame_17.xml" value="0.10004177109440267" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/frame_2.xml" value="0.14447463768115942" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/frame_3.xml" value="0.14447463768115942" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/frame_4.xml" value="0.14447463768115942" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/frame_5.xml" value="0.12082066869300911" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/frame_6.xml" value="0.12082066869300911" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/frame_7.xml" value="0.12132725430597771" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/frame_8.xml" value="0.10004177109440267" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/frame_9.xml" value="0.12082066869300911" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/info_custompopup.xml" value="0.536" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/layout_recipe.xml" value="0.14447463768115942" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_custompopup.xml" value="0.25" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_custompopup_Japanese.xml" value="0.1514690982776089" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_custompopup_chinese.xml" value="0.254981884057971" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_custompopup_gobchang.xml" value="0.2" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_custompopup_item_view.xml" value="0.2644927536231884" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_custompopup_japanese.xml" value="0.254981884057971" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_custompopup_western.xml" value="0.254981884057971" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_food_ddeokbokki.xml" value="0.2" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_food_gamjatang.xml" value="0.2" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_food_gobchang.xml" value="0.2" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_food_jjimdak.xml" value="0.264" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_food_jokbal.xml" value="0.264" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_food_soondae.xml" value="0.2" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_foodc_jjajangmyeon.xml" value="0.2" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_foodc_jjambbong.xml" value="0.2" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_foodc_maratang.xml" value="0.264" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_foodc_tangsuyook.xml" value="0.2" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_foodj_icecream.xml" value="0.4" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_foodj_snack.xml" value="0.2" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_foodj_yogurt.xml" value="0.2" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_foodw_chicken.xml" value="0.2" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_foodw_dongas.xml" value="0.264" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_foodw_gamjathuigim.xml" value="0.176" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_foodw_pizza.xml" value="0.2" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_popup.xml" value="1.0" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/main_recipe_layout.xml" value="0.2" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/page.xml" value="0.264" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/setting_custompopup.xml" value="0.264" />
+        <entry key="..\:/GitHub/Project/app/src/main/res/layout/textreci.xml" value="0.264" />
+        <entry key="..\:/GitHub/RecipeApp/Project/app/src/main/res/font/font.xml" value="0.22606837606837607" />
+        <entry key="..\:/GitHub/RecipeApp/Project/app/src/main/res/layout/activity_cart.xml" value="0.24947916666666667" />
+        <entry key="..\:/GitHub/RecipeApp/Project/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/GitHub/RecipeApp/Project/app/src/main/res/layout/activity_my_recipe.xml" value="0.2" />
+        <entry key="..\:/GitHub/RecipeApp/Project/app/src/main/res/layout/activity_recipe.xml" value="0.17617753623188406" />
+        <entry key="..\:/GitHub/RecipeApp/Project/app/src/main/res/layout/activity_test.xml" value="0.1793478260869565" />
+        <entry key="..\:/GitHub/RecipeApp/Project/app/src/main/res/layout/layout_recipe.xml" value="0.136" />
+        <entry key="..\:/GitHub/RecipeApp/Project/app/src/main/res/layout/main_recipe_layout.xml" value="0.264" />
+        <entry key="..\:/Users/7607/Documents/GitHub/RecipeApp/Project/app/src/main/res/layout/activity_cart.xml" value="0.25" />
+        <entry key="..\:/Users/7607/Documents/GitHub/RecipeApp/Project/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/7607/Documents/GitHub/RecipeApp/Project/app/src/main/res/layout/activity_recipe.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Hwa/Documents/GitHub/RecipeApp/Project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1845" />
+        <entry key="..\:/Users/Hwa/Documents/GitHub/RecipeApp/Project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1845" />
+        <entry key="..\:/Users/Hwa/Documents/GitHub/RecipeApp/Project/app/src/main/res/drawable/layout_background.xml" value="0.15" />
+        <entry key="..\:/Users/Hwa/Documents/GitHub/RecipeApp/Project/app/src/main/res/drawable/rect1.xml" value="0.1845" />
+        <entry key="..\:/Users/Hwa/Documents/GitHub/RecipeApp/Project/app/src/main/res/drawable/rect2.xml" value="0.1845" />
+        <entry key="..\:/Users/Hwa/Documents/GitHub/RecipeApp/Project/app/src/main/res/drawable/rect3.xml" value="0.1845" />
+        <entry key="..\:/Users/Hwa/Documents/GitHub/RecipeApp/Project/app/src/main/res/drawable/rect4.xml" value="0.1845" />
+        <entry key="..\:/Users/Hwa/Documents/GitHub/RecipeApp/Project/app/src/main/res/drawable/rect5.xml" value="0.1845" />
+        <entry key="..\:/Users/Hwa/Documents/GitHub/RecipeApp/Project/app/src/main/res/drawable/rect6.xml" value="0.1845" />
+        <entry key="..\:/Users/Hwa/Documents/GitHub/RecipeApp/Project/app/src/main/res/layout/activity_cart.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/Hwa/Documents/GitHub/RecipeApp/Project/app/src/main/res/layout/activity_main.xml" value="0.16261398176291794" />
+        <entry key="..\:/Users/Hwa/Documents/GitHub/RecipeApp/Project/app/src/main/res/layout/info_custompopup.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Hwa/Documents/GitHub/RecipeApp/Project/app/src/main/res/layout/layout_recipe.xml" value="0.1" />
+        <entry key="..\:/Users/Hwa/Documents/GitHub/RecipeApp/Project/app/src/main/res/layout/main_custompopup.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Hwa/Documents/GitHub/RecipeApp/Project/app/src/main/res/layout/main_custompopup_chinese.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Hwa/Documents/GitHub/RecipeApp/Project/app/src/main/res/layout/main_custompopup_japanese.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Hwa/Documents/GitHub/RecipeApp/Project/app/src/main/res/layout/main_custompopup_western.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Hwa/Documents/GitHub/RecipeApp/Project/app/src/main/res/layout/main_foodc_jjajangmyeon.xml" value="0.21920289855072464" />
+        <entry key="..\:/Users/Hwa/Documents/GitHub/RecipeApp/Project/app/src/main/res/layout/setting_custompopup.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/user/Documents/GitHub/RecipeApp/Project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.167" />
+        <entry key="..\:/Users/user/Documents/GitHub/RecipeApp/Project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.167" />
+        <entry key="..\:/Users/user/Documents/GitHub/RecipeApp/Project/app/src/main/res/drawable/rect1.xml" value="0.167" />
+        <entry key="..\:/Users/user/Documents/GitHub/RecipeApp/Project/app/src/main/res/drawable/rect2.xml" value="0.167" />
+        <entry key="..\:/Users/user/Documents/GitHub/RecipeApp/Project/app/src/main/res/drawable/rect3.xml" value="0.156" />
+        <entry key="..\:/Users/user/Documents/GitHub/RecipeApp/Project/app/src/main/res/drawable/rectangle_style.xml" value="0.2195" />
+        <entry key="..\:/Users/user/Documents/GitHub/RecipeApp/Project/app/src/main/res/drawable/slider.xml" value="0.1325" />
+        <entry key="..\:/Users/user/Documents/GitHub/RecipeApp/Project/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/user/Documents/GitHub/RecipeApp/Project/app/src/main/res/layout/slider.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

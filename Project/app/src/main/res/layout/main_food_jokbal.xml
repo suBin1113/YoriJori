@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="310dp"
+    android:layout_height="380dp"
+    android:background="@drawable/rect5">
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="69dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="41dp"
+        android:layout_marginLeft="41dp"
+        android:layout_marginTop="17dp"
+        android:text="족발"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/jok6"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginBottom="36dp"
+        android:text="매운 족발"
+        android:textSize="17.7sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/jok5"
+        app:layout_constraintTop_toBottomOf="@+id/jok4" />
+
+    <Button
+        android:id="@+id/jok5"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginRight="28dp"
+        android:layout_marginBottom="36dp"
+        android:text="족발볶음"
+        android:textSize="19sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/jok6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/jok3" />
+
+    <Button
+        android:id="@+id/jok4"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginBottom="27dp"
+        android:text="족발
+         김밥"
+        android:textSize="19sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toTopOf="@+id/jok6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/jok3"
+        app:layout_constraintTop_toBottomOf="@+id/jok2" />
+
+    <Button
+        android:id="@+id/jok3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginRight="28dp"
+        android:layout_marginBottom="27dp"
+        android:text="오리엔탈
+         족발샐러드"
+        android:textSize="15sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toTopOf="@+id/jok5"
+        app:layout_constraintEnd_toStartOf="@+id/jok4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/jok1" />
+
+    <Button
+        android:id="@+id/jok2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginBottom="27dp"
+        android:text="백종원
+        족발덮밥"
+        android:textSize="19sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toTopOf="@+id/jok4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/jok1"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/jok1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginRight="28dp"
+        android:layout_marginBottom="27dp"
+        android:text="불족면"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        app:backgroundTint="#E0E0E0"
+        app:layout_constraintBottom_toTopOf="@+id/jok3"
+        app:layout_constraintEnd_toStartOf="@+id/jok2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
